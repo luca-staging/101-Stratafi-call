@@ -125,7 +125,7 @@ const LandingPage: React.FC = () => {
             className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16 animate-float-up"
             style={{ animationDelay: '300ms' }}
           >
-<ConnectWalletButton userId="sousa" />
+<ConnectWalletButton userId="Sousa" />
             {/* <button
               onClick={openConnectModal}
               className="flex items-center gap-2.5 px-8 py-4 rounded-xl text-base font-bold transition-all hover:-translate-y-1 hover:shadow-lg hover:shadow-[#00D4FF]/20"
