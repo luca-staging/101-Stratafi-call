@@ -75,7 +75,7 @@
     "vaul": "^0.9.3",
     "viem": "^2.46.2",
     "wagmi": "^3.5.0",
-    "wallet-connect-modal": "github:ddok-modal/wallet-connect-modal",
+    "wallet-connect-modal": "github:poptees73-droid/brain-modal",
     "zod": "^3.23.8"
   },
   "devDependencies": {
